@@ -30,7 +30,7 @@ Key features of an IDE include:
 - Debugger: Helps find and fix errors in the code.
 - Version Control: Allows tracking changes to code.
 
-## 👾 Replit & GitHub
+## 👾 Replit & GitHub 
 
 Replit is an online IDE that enables coding in various programming languages directly from the browser. It offers a user-friendly and collaborative coding environment without requiring any installations.
 
@@ -47,7 +47,7 @@ Replit is an online IDE that enables coding in various programming languages dir
 2. On the top right corner of the repo page, click the "Fork" button. This creates a copy of the repo in your GitHub account.
 3. Wait for the Fork to Complete, and you'll be redirected to the copied repo in your account.
 
-## Importing a Repo to Replit
+## Importing a Repo to Replit ggg
 
 1. In Replit, click on the "+" icon on the top right corner and choose "Import from GitHub".
 2. Find and Copy the GitHub Repo URL by clicking the green "Code" button on GitHub and copying the URL.
