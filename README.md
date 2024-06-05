@@ -6,7 +6,7 @@
 - Fork and pull a repository into an integrated development environment (IDE).
 - Study vocabulary terms between classes to reinforce understanding and improve coding skills.
 
-## Table of Contents
+## Table of Contents hello another note
 
 1. [⌨️ IDEs](#ides-5)
    - What is an IDE?
